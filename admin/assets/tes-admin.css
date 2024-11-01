@@ -1,0 +1,20 @@
+.timexpress_login_container {
+    width:100%;
+    height:400px;
+    background:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.timexpress_login_container form>div {
+    margin:10px 0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+.timexpress_login_container form>div label{
+    margin-right:10px;
+}
